@@ -12,4 +12,4 @@ A: Check that your device is not on silent mode and volume is up.
 A: The app is linked to your Apple ID. Re-download from the App Store at no extra cost.
 
 ## Contact
-Email: khanhmai.dev@gmail.com
+Email: blueblazedev@outlook.com

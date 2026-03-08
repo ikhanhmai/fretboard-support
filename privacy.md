@@ -17,4 +17,4 @@ Fretboard does not collect, store, or share any personal data.
 - No IDFA or ATT usage.
 
 ## Contact
-- Email: khanhmai.dev@gmail.com
+- Email: blueblazedev@outlook.com
